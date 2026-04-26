@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS",
+  "description": "NEXUS: A high-resilience decentralized mesh network with Trust/Reputation layers, multi-hop opportunistic routing, and zero-trace optical sync.",
+  "requestFramePermissions": ["camera", "bluetooth", "geolocation"]
+}
